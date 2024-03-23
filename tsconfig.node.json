@@ -3,7 +3,7 @@
     "composite": true,
     "skipLibCheck": true,
     "module": "ESNext",
-    "moduleResolution": "bundler",
+    "moduleResolution": "Node", //bundler 에서 node으로 고침
     "allowSyntheticDefaultImports": true,
     "strict": true
   },
